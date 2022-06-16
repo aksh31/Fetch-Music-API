@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Akshay-Server",
+      "author": "typicode"
+    },
+    {
+      "title": "Tulsi",
+      "author": "gondia",
+      "id": 2
+    },
+    {
+      "title": "Sanford International School",
+      "author": "Gajanan Sir",
+      "id": 3
+    },
+    {
+      "title": "Electrical Engg HOD",
+      "author": "Datta Sir",
+      "id": 4
+    },
+    {
+      "title": "Tulsi",
+      "author": "gondia",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "Rata lambiyaa",
+      "url" : "https://pagalworld.com.se/files/download/id/3198"
+    },
+    {
+      "name": "Dil Galti Kar Baitha Hai",
+      "url" : "https://pagalworld.com.se/files/download/id/3809"
+    },
+    {
+      "name": "Mere Yaara",
+      "url" : "https://pagalworld.com.se/files/download/id/4180"
+    },
+    {
+      "name": "Dhokha",
+      "url" : "https://pagalworld.com.se/files/download/id/5054"
+    },
+    {
+      "name": "Yeh Dosti-Slow Version-Unplugged",
+      "url" : "https://pagalworld.com.se/files/download/id/3199"
+    },
+    {
+      "name": "KK All Time Evergreen Hits Audio Jukebox (Tribute To KK)",
+      "url" : "https://pagalworld.com.se/files/download/id/6098"
+    }
+    
+  ]
+}
